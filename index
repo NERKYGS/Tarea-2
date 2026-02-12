@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+
+<html lang="es-MX">
+<head>
+    <meta charset="UFT-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tarea 2 - Mi receta favorita</title>>
+</head>
+<body>
+    <h1>Sopa fria</h1>
+    <p>Me gusta principalmente por la combinacion de sabores dulces con la pasta, ademas que no requiere mucho tiempo de preparacion y es una receta que no requiere de mucha inversion para llenarte y disfrutar.</p>
+    <pre>Hace un tiempo, en año nuevo, me toco preparar esta recetea a mi por primera vez,
+        y puedo decir que es una receta que disfrute mucho cocinar y degustar, 
+        ademas de que pude agregar algunos ingredientes que mejoraron con creces tanto el sabor como la preparacion
+    </pre>
+
+<h2>Fuentes de consulta</h2>
+    <ul>
+        <li><a href="https://patijinich.com/es/sopa-fria-de-pasta/" target="_blank">Sopa fría de pasta - Pati Jinich en Español
+</a></li>
+        <li><a href="https://cookpad.com/mx/recetas/7985152" target="_blank">Sopa Fría Receta de Glendi Rodrīguez Hernández
+</a></li>
+        <li><a href="https://www.abarrey.com/recetas.php?id=245" target="_blank">Sopa fría de coditos
+</a></li>
+    </ul>
+
+    <hr>
+
+    
+    <h2>Galería</h2>
+
+    <img src="https://www.google.com/imgres?q=sopa%20fria%20de%20pasta%20paginas%20web&imgurl=https%3A%2F%2Fgourmetdemexico.com.mx%2Fwp-content%2Fuploads%2F2023%2F12%2Fsopa-fria-guarnicion-1-1024x683.jpg&imgrefurl=https%3A%2F%2Fgourmetdemexico.com.mx%2Fgastronomia-mexicana%2Fsopa-de-coditos-sopa-fria-ideal-para-cena-de-fin-de-ano%2F&docid=Qf5s_XjXvxHrxM&tbnid=95huih2Y59RiXM&vet=12ahUKEwjQmZ6owtSSAxXb5MkDHbhoEZkQnPAOegQIJBAB..i&w=1024&h=683&hcb=2&ved=2ahUKEwjQmZ6owtSSAxXb5MkDHbhoEZkQnPAOegQIJBAB" alt="Sopa fria" width="300" height="300">
+    <br>
+
+    <figure>
+        <img src="https://www.google.com/imgres?q=receta%20de%20sopa%20fria%20pasos&imgurl=https%3A%2F%2Fcdn0.recetasgratis.net%2Fes%2Fposts%2F1%2F1%2F0%2Fsopa_de_coditos_fria_37011_paso_1_600.jpg&imgrefurl=https%3A%2F%2Frecetas.elperiodico.com%2Freceta-de-sopa-de-coditos-fria-37011.html&docid=30jREMcCD-fHvM&tbnid=cGn4mXgzdb2EfM&vet=12ahUKEwjxz83bwtSSAxXrNt4AHc5hD2AQnPAOegQIOxAB..i&w=600&h=337&hcb=2&ved=2ahUKEwjxz83bwtSSAxXrNt4AHc5hD2AQnPAOegQIOxAB" alt="Introduce aquí la descripción del proceso de cocina" width="400" height="300">
+        <figcaption>
+            <a href="https://www.google.com/aclk?sa=L&ai=DChsSEwiF6dr2wtSSAxVeB9QBHaALNRgYACICCAEQBBoCb2E&co=1&gclid=CjwKCAiAkbbMBhB2EiwANbxtbUHKB5OrLNsf6sO2ZlWnmW4xEGFuwLN13dwGnKhCfIUI1TPPSMZupxoCqUQQAvD_BwE&cid=CAASuwHkaIaynM7gZgjgvDR1QOUviVXMQ6sPik_qoql4_GqhJ5Hph92LTegh0i3_wP88Wz_yvrqTF2AIp6Fe5VgIAk3FWT1UHkAR-VrCfsDz_ji-IWu4he5V6PcFQxRHo9wH6Y1ZBOMg4V0xqJr8zopp9UHLf8FKvFI7dCMgcVtKM8mFAz_DFsrYM0Uu2koTxYTBh3lTpQQkKpFkQs4ycqMCQ_a5ZT-mKvOMrGd-SzG7-gqEsE9EW7uiHr7-eEg2&cce=2&sig=AOD64_2KHobTLJvkgQBhbrERgTmSwgWSig&q&adurl&ved=2ahUKEwjV39H2wtSSAxWr48kDHXPaNnQQ0Qx6BAgNEAE" target="_blank">SURTILOZA</a>
+        </figcaption>
+    </figure>
+    <br>
+    
+    <figure>
+        <a href="https://www.google.com/search?q=sopa+fria&client=opera&sca_esv=f6aa0b4fea544edf&udm=2&biw=1482&bih=696&sxsrf=ANbL-n6Ssn-M9AAvAlglC0XaYkh4oP5z-w%3A1770919136235&ei=4BSOaf2MDvz9p84P0N6Y6Qs&ved=0ahUKEwj9_Knww9SSAxX8_skDHVAvJr0Q4dUDCBI&uact=5&oq=sopa+fria&gs_lp=Egtnd3Mtd2l6LWltZyIJc29wYSBmcmlhMgcQIxgnGMkCMg0QABiABBixAxhDGIoFMgUQABiABDIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIFEAAYgAQyBRAAGIAESI4kUPEWWM4gcAJ4AJABAJgBmAGgAd4IqgEDMC45uAEDyAEA-AEBmAILoAKkCagCCsICChAjGCcYyQIY6gLCAgsQABiABBixAxiDAcICDhAAGIAEGLEDGIMBGIoFmAMNiAYBkgcDMi45oAe0P7IHAzAuObgHkAnCBwYyLTEwLjHIBziACAA&sclient=gws-wiz-img" target="_blank">
+            <img src="https://www.google.com/imgres?q=receta%20de%20sopa%20fria%20pasos&imgurl=https%3A%2F%2Fi.blogs.es%2Ff7c002%2Fcopia-de-portada---2024-07-25t102733.710%2F840_560.jpg&imgrefurl=https%3A%2F%2Fwww.directoalpaladar.com.mx%2Fcocina-popular-mexicana%2Fsopa-coditos-esta-receta-economica-rapida-facil-para-preparar-casa&docid=nUOZH7aslXQmhM&tbnid=l7uxaj_KFY0NlM&vet=12ahUKEwjxz83bwtSSAxXrNt4AHc5hD2AQnPAOegQIZRAB..i&w=840&h=560&hcb=2&ved=2ahUKEwjxz83bwtSSAxXrNt4AHc5hD2AQnPAOegQIZRAB" alt="Sopa fria">
+        </a>
+        <figcaption>Haz clic para ver más fotos</figcaption>
+    </figure>
+
+    <hr>
+
+    <h2>Cosas para la elaboración</h2>
+
+    <h3>Lista de Compras</h3>
+    <ul>
+        <li>1 paquete grande de coditos (o fideo)</li>
+        <li>1 lata de crema de leche</li>
+        <li>1 taza de mayonesa</li>
+        <li>2 pechugas de pollo</li>
+        <li>1 lata de chícharos</li>
+        <li>2 zanahorias grandes</li>
+        <li>1 manzana golden</li>
+        <li>1/2 piña en almíbar</li>
+        <li>1/2 barra de mantequilla</li>
+        <li>Sal y pimienta</li>
+    </ul>
+
+    <h3>Lista de ingredientes</h3>
+    <ul>
+        <li>500 g de coditos</li>
+        <li>200 ml de crema ácida</li>
+        <li>150 g de mayonesa</li>
+        <li>2 pechugas de pollo cocidas y deshebradas</li>
+        <li>1 taza de chícharos cocidos</li>
+        <li>2 zanahorias cocidas y picadas en cubos</li>
+        <li>1 manzana sin piel y en cubos</li>
+        <li>1/2 taza de piña en almíbar picada</li>
+        <li>1/4 de cebolla blanca picada finamente</li>
+        <li>Sal y pimienta al gusto</li>
+    </ul>
+
+    <h3>Lista de pasos</h3>
+    <ol>
+        <li>Cocer los coditos en agua con sal hasta que estén tiernos; escurrir y enfriar con agua fría.</li>
+        <li>Cocer las pechugas de pollo, deshebrarlas y reservar.</li>
+        <li>Cocer las zanahorias y los chícharos por separado; picar las zanahorias en cubos pequeños.</li>
+        <li>Picar la manzana y la piña en cubos pequeños.</li>
+        <li>En un tazón grande mezclar la crema, mayonesa, cebolla picada, sal y pimienta.</li>
+        <li>Agregar los coditos fríos, el pollo deshebrado, las verduras, la manzana y la piña. Mezclar muy bien.</li>
+        <li>Refrigerar al menos 2 horas antes de servir.</li>
+        <li>Servir frío, decorado con perejil o granada si se desea.</li>
+    </ol>
+
+    <hr>
+
+
+    <button onclick="window.open('https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=video&cd=&cad=rja&uact=8&ved=2ahUKEwiW-fiYxdSSAxXs5skDHbGQGeMQtwJ6BAgREAI&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3De5ZClM2tt30&usg=AOvVaw1biGGXZvXdV6S2sKmRkqtA&opi=89978449', '_blank')">
+        Ver receta original en video
+    </button>
+
+    <br><br>
+
+</body>
+</html>
